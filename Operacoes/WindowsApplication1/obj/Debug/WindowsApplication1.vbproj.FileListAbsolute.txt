@@ -1,0 +1,27 @@
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.FOperacoes.resources
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Vanessa\Downloads\Augusto Sérgio - Visual Studio\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Técnico em Informática\Visual Studio\Visual Studio - Ago-Set\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Técnico em Informática\Visual Studio\Visual Studio - Ago-Set\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Técnico em Informática\Visual Studio\Visual Studio - Ago-Set\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Técnico em Informática\Visual Studio\Visual Studio - Ago-Set\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.FOperacoes.resources
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Agosto e Setembro\Operações\Operações\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
