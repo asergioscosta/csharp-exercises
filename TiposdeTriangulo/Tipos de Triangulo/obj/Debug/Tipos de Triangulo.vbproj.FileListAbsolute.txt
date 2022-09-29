@@ -1,0 +1,37 @@
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.exe.config
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos_de_Triangulo.FTipos.resources
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos_de_Triangulo.Resources.resources
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.vbproj.GenerateResource.Cache
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.exe
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.pdb
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.xml
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.exe
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.xml
+C:\Users\Public\Pictures\Sample Pictures\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.pdb
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.exe.config
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.exe
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.xml
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.pdb
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos_de_Triangulo.Resources.resources
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.vbproj.GenerateResource.Cache
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos_de_Triangulo.ftipos.resources
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.exe
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.pdb
+D:\Técnico em Informática\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.xml
+G:\Meus Arquivos\2019\Curso Técnico de Informática – 1º Módulo\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.exe.config
+G:\Meus Arquivos\2019\Curso Técnico de Informática – 1º Módulo\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.exe
+G:\Meus Arquivos\2019\Curso Técnico de Informática – 1º Módulo\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.xml
+G:\Meus Arquivos\2019\Curso Técnico de Informática – 1º Módulo\Visual Studio\Visual Studio - Out-Nev\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.pdb
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.exe.config
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.exe
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.pdb
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\bin\Debug\Tipos de Triangulo.xml
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.vbproj.AssemblyReference.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.vbproj.SuggestedBindingRedirects.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos_de_Triangulo.ftipos.resources
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos_de_Triangulo.Resources.resources
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.vbproj.GenerateResource.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.vbproj.CoreCompileInputs.cache
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.exe
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.xml
+E:\Augusto\Estudos\Técnico em Informática ﹘ Colégio Plitécnico Pio XII\1º Módulo\LP IV\Exercícios Visual Studio\Exercícios Outubro e Novembro\Tipos de Triangulo\Tipos de Triangulo\obj\Debug\Tipos de Triangulo.pdb
